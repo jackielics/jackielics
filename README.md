@@ -1,8 +1,3 @@
-<img   align="left" src="https://github-readme-stats.vercel.app/api?username=jackielics&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=percentile"/>
-<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackielics&locale=cn&line_height=33&theme=dark&langs_count=5"/>
-
-
-
 <p align="left" style="font-family: Brush Script MT"> 
 <a href="https://t.me/eyescreener_e0/"><img align="left" src="./assets/logo/telegram.svg" alt="Telegram" width="24px"/></a>
 </p>
@@ -125,3 +120,8 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+
+
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=jackielics&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=percentile"/>
+<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackielics&locale=cn&line_height=33&theme=dark&langs_count=5"/>
