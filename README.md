@@ -83,7 +83,7 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-**> Programming languages**
+**> Programming Languages**
 
 <p>
     <a href="https://github.com/search?q=user%3Asourlodine+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -94,7 +94,7 @@
     <a href="https://github.com/search?q=user%3Asourlodine+language%3AGo"><img alt="Golang" src="https://img.shields.io/badge/Golang-53caf9.svg?logo=go&logoColor=white"></a>
 </p>
 
-**> Databases and cloud hosting**
+**> Databases and Cloud Hosting**
 
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -108,7 +108,7 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
 </p>
 
-**> Software and tools**
+**> Software and Tools**
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -119,6 +119,7 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 
+**> Statistics**
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api?username=jackielics&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=percentile"/>
 <img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackielics&locale=cn&line_height=33&theme=dark&langs_count=5"/>
