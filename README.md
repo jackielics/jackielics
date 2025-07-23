@@ -127,6 +127,8 @@
     <a href="https://www.heywhale.com/home/user/profile/5f76a1c5881b95002df5c54d/overview"><img alt="HeyWhale" src="https://img.shields.io/badge/HeyWhale-0073FF.svg?logo=heywhale&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/17933934/jackie-li?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white"></a>
     <a href="https://www.zhihu.com/people/jackielics6428"><img alt="知乎" src="https://img.shields.io/badge/知乎-0F88EB.svg?logo=zhihu&logoColor=white"></a>
+
+    (Video Platform to be added...)
 </p>
 
 
