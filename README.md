@@ -119,11 +119,12 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 
-**> Other Platforms of Me**
+**> Other Platforms of Me(Click Links)**
 
 <p>
     <a href="https://leetcode.cn/u/jackie-cs-b/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode.cn-FFA116.svg?logo=LeetCode&logoColor=white"></a>
     <a href="https://leetcode.com/u/JackLee6428/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode.com-FFA116.svg?logo=LeetCode&logoColor=black"></a>
+    <a href="https://www.heywhale.com/home/user/profile/5f76a1c5881b95002df5c54d/overview"><img alt="HeyWhale" src="https://img.shields.io/badge/HeyWhale-0073FF.svg?logo=heywhale&logoColor=white"></a>
 </p>
 
 
