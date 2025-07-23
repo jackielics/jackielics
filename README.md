@@ -119,6 +119,13 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 
+**> Other Platforms of Me**
+
+<p>
+    <a href="https://leetcode.cn/u/jackie-cs-b/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode.cn-FFA116.svg?logo=LeetCode&logoColor=white"></a>
+</p>
+
+
 **> Statistics**
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api?username=jackielics&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=percentile"/>
