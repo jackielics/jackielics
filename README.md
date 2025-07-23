@@ -123,6 +123,7 @@
 
 <p>
     <a href="https://leetcode.cn/u/jackie-cs-b/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode.cn-FFA116.svg?logo=LeetCode&logoColor=white"></a>
+    <a href="https://leetcode.com/u/JackLee6428/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode.com-FFA116.svg?logo=LeetCode&logoColor=black"></a>
 </p>
 
 
